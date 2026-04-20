@@ -1,0 +1,7 @@
+[2026-04-20T08:32:23Z] === AST ITERATION 1 START | repo=apple/swift-numerics sha=0c0290ff ===
+[2026-04-20T08:32:23Z] [iter=1] PHASE START: ast repo=apple/swift-numerics sha=0c0290ff
+[2026-04-20T08:32:23Z] [iter=1] Building AST aggregate chunks
+[2026-04-20T08:32:46Z] [iter=1] AST chunks built count=1 triples=258369
+[2026-04-20T08:32:46Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/0c0290ff6b24942dadb83a929ffaaa1481df04a2/.complete
+[2026-04-20T08:32:46Z] [iter=1] PHASE END: ast elapsed_s=22 elapsed_min=0.4
+[2026-04-20T08:32:46Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
